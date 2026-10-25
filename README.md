@@ -1,0 +1,2 @@
+# Netflix-Data-Cleaning-Preparation-using-Python-and-Pandas-Auspify-Internship-Task-1
+This project focuses on cleaning and preparing the Netflix titles dataset using Python and Pandas. It includes data quality checks, duplicate removal, missing-value handling, text standardization, and date formatting to create a clean dataset ready for further analysis and reporting. Completed as Task 1 of the Auspify Internship.
