@@ -1,0 +1,36 @@
+AUSPIFY TASK 1 - NETFLIX DATA CLEANING REPORT
+=============================================
+Original rows: 8790
+Original columns: 10
+Duplicate rows found initially: 0
+Duplicate rows removed: 0
+Rows after cleaning: 8790
+Columns after cleaning: 10
+Missing cells before cleaning: 0
+Missing cells after cleaning: 0
+
+Missing values before cleaning by column:
+show_id         0
+type            0
+title           0
+director        0
+country         0
+date_added      0
+release_year    0
+rating          0
+duration        0
+listed_in       0
+
+Missing values after cleaning by column:
+show_id         0
+type            0
+title           0
+director        0
+country         0
+date_added      0
+release_year    0
+rating          0
+duration        0
+listed_in       0
+
+Cleaned file: Netflix_Cleaned.csv
